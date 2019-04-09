@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_beranda"
+        android:title="Beranda"
+        android:icon="@drawable/ic_home_black_24dp"/>
+    <item android:id="@+id/action_belajar"
+          android:title="Belajar"
+          android:icon="@drawable/ic_book_black_24dp"/>
+    <item android:id="@+id/action_jadwal"
+          android:title="Jadwal"
+          android:icon="@drawable/ic_history_black_24dp"/>
+    <item android:id="@+id/action_langganan"
+          android:title="Langganan"
+          android:icon="@drawable/ic_repeat_black_24dp"/>
+    <item android:id="@+id/action_akun"
+          android:title="Akun"
+          android:icon="@drawable/ic_person_black_24dp"/>
+</menu>

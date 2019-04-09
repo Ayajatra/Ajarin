@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "670749567079",
+    "firebase_url": "https://ajarin-f515.firebaseio.com",
+    "project_id": "ajarin-f515",
+    "storage_bucket": "ajarin-f515.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670749567079:android:449cbc08080067b7",
+        "android_client_info": {
+          "package_name": "net.halo.ajarin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670749567079-3mmc80j3ojnmi1hda6mf8tgfv36bb1s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2dBDaOYMVxN1iaBrmwXrj0MOCfnVoZck"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

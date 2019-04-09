@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Ajarin</string>
+    <string name="instant_validation">Instant Validation</string>
+    <string-array name="profesi_array">
+        <item>Anda mendaftar sebagai?</item>
+        <item>Guru</item>
+        <item>Murid</item>
+    </string-array>
+    <string-array name="pendidikan_array">
+        <item>Pendidikan Anda?</item>
+        <item>TK</item>
+        <item>SD</item>
+        <item>SMP</item>
+        <item>SMA Sederajat</item>
+        <item>S1 Sederajat</item>
+        <item>S2 Sederajat</item>
+        <item>S3</item>
+    </string-array>
+    <string-array name="waktu_array">
+        <item>08:00-10:00</item>
+        <item>12:00-14:00</item>
+        <item>16:00-18:00</item>
+    </string-array>
+    <string-array name="lama_array">
+        <item>1 Bulan</item>
+        <item>2 Bulan</item>
+        <item>3 Bulan</item>
+        <item>4 Bulan</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
